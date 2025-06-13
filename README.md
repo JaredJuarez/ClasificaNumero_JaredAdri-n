@@ -8,4 +8,4 @@ realizar las siguientes verificaciones:
 
 El usuario debe seleccionar qué operación desea realizar y luego ingresar un número.
 
-La tecnologia a usar dentro de este proyecto sera JAVA
+La tecnologia a usar dentro de este proyecto sera Python
